@@ -1,4 +1,4 @@
-**# Projet : "Analyse des ventes de jeux vidéo""**
+# Projet : "Analyse des ventes de jeux vidéo""
 ## 📋 Scénario
 En tant que data analyst travaillant dans un cabinet de conseil, nous avons été mandatés par une entreprise pour analyser les ventes de jeux vidéo ainsi que les tendances du marché. 
 ## 🎯 Objectifs
@@ -11,4 +11,6 @@ L'objectif de cette analyse est de fournir une compréhension approfondie des ve
 6. Formuler des recommandations stratégiques pour optimiser les ventes et renforcer la position de l'entreprise sur le marché des jeux vidéo.
 
 ## 🔧 Outils utilisés:
-- Pandas : importation, préparation et vérification des données.
+- Pandas, Matplotlib, Seaborn : préparation et analyse descriptive des données.
+- SciPy, scikit-learn et statsmodels : analyse statistiques et mise prédiction.
+- Matplotlib, Seaborn, plotly et power BI : réalisation des analyses et visualisations.
