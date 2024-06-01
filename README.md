@@ -12,7 +12,7 @@ L'objectif de cette analyse est de fournir une compréhension approfondie des ve
 
 ## 🔧 Outils utilisés:
 - Pandas, Matplotlib, Seaborn : préparation et analyse descriptive des données.
-- SciPy, scikit-learn et statsmodels : analyse statistiques et mise prédiction.
+- Scipy.stats, scikit-learn: analyse statistiques et prédiction.
 - Matplotlib, Seaborn, plotly et power BI : réalisation des analyses et visualisations.
   
 ## 🎓 Compétences acquises:
