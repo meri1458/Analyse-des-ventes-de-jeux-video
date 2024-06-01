@@ -26,6 +26,8 @@ L'objectif de cette analyse est de fournir une compréhension approfondie des ve
 - Inteprétation des résultats : Analyse et compréhension des résultats obtenus
   
   ## Exemples de visualisations réalisées sur Power BI
+  ## Analyse des Ventes Mensuelles par Plateforme de Jeux Vidéo
+  ![Base de données](https://github.com/meri1458/Analyse-des-ventes-de-jeux-video/blob/main/Capture%20d%E2%80%99%C3%A9cran%203.png)
   ## Graphiques Comparant les Évaluations des Joueurs et de la Presse
 ![Base de données](https://github.com/meri1458/Analyse-des-ventes-de-jeux-video/blob/main/Capture%20d%E2%80%99%C3%A9cran%2001.png)
  
