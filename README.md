@@ -30,7 +30,10 @@ L'objectif de cette analyse est de fournir une compréhension approfondie des ve
 ![Base de données](https://github.com/meri1458/Analyse-des-ventes-de-jeux-video/blob/main/Capture%20d%E2%80%99%C3%A9cran%203.png)
 ## Graphiques Comparant les Évaluations des Joueurs et de la Presse
 ![Base de données](https://github.com/meri1458/Analyse-des-ventes-de-jeux-video/blob/main/Capture%20d%E2%80%99%C3%A9cran%2001.png)
-## Vue d'ensemble des Graphiques : Influence des Notes sur les Ventes Totales de Jeux, Ventes des Jeux par Trimestre, Ventes Totales par Éditeur de Jeux, Classées par Note attribuée par Metacritic
+## Vue d'ensemble des Graphiques : 
+- Influence des Notes sur les Ventes Totales de Jeux
+-  Ventes des Jeux par Trimestre
+-  Ventes Totales par Éditeur de Jeux, Classées par Note attribuée par Metacritic
 ![Base de données](https://github.com/meri1458/Analyse-des-ventes-de-jeux-video/blob/main/Capture%20d%E2%80%99%C3%A9cran%2002.png)
 
  
