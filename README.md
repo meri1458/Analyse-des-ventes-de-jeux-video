@@ -1,4 +1,4 @@
-# Projet : "Analyse des ventes de jeux vidéo"
+"# Projet : "Analyse des ventes de jeux vidéo""
 ## 📋 Scénario
 En tant que data analyst travaillant dans un cabinet de conseil, nous avons été mandatés par une entreprise pour analyser les ventes de jeux vidéo ainsi que les tendances du marché. 
 ## 🎯 Objectifs
