@@ -14,7 +14,8 @@ L'objectif de cette analyse est de fournir une compréhension approfondie des ve
 - Pandas, Matplotlib, Seaborn : préparation et analyse descriptive des données.
 - SciPy, scikit-learn et statsmodels : analyse statistiques et mise prédiction.
 - Matplotlib, Seaborn, plotly et power BI : réalisation des analyses et visualisations.
-  ## 🎓 Compétences acquises:
+  
+## 🎓 Compétences acquises:
 - Exploration : Découverte des données
 - Analyse : Etude préliminaire
 - Scrapping : Récole des données (Web et API)
