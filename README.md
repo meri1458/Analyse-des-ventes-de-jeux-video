@@ -20,7 +20,6 @@ L'objectif de cette analyse est de fournir une compréhension approfondie des ve
 - Analyse : Etude préliminaire
 - Scrapping : Récole des données (Web et API)
 - Alimentation d'un Dataset :  Ajout de données
-- Nettoyage : Traitement des données collectées et Identification des variables pertinentes
 - Pre-Processing : Préparation des données pour l'analyse 
 - Modélisation : Classification  du problème et test de plusieurs modèles (Régression Linéaire, Arbre Décisionnel, Kneighbours et Foret Aléatoire)
 - Visualisation : Création de visualisations pour représenter les données
