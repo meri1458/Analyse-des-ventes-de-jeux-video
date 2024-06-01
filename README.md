@@ -24,8 +24,8 @@ L'objectif de cette analyse est de fournir une compréhension approfondie des ve
 - Modélisation : Classification  du problème et test de plusieurs modèles (Régression Linéaire, Arbre Décisionnel, Kneighbours et Foret Aléatoire)
 - Visualisation : Création de visualisations pour représenter les données
 - Inteprétation des résultats : Analyse et compréhension des résultats obtenus
-
- ![Base de données]([url_de_votre_image](https://github.com/meri1458/Analyse-des-ventes-de-jeux-video/blob/main/Capture%20d%E2%80%99%C3%A9cran%2001.png)) 
+- 
+![Base de données](https://github.com/meri1458/Analyse-des-ventes-de-jeux-video/blob/main/Capture%20d%E2%80%99%C3%A9cran%2001.png)) 
  
 
 
