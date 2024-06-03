@@ -18,7 +18,7 @@ L'objectif de cette analyse est de fournir une compréhension approfondie des ve
 ## 🎓 Compétences acquises:
 - Exploration : Découverte des données
 - Analyse : Etude préliminaire
-- Scrapping : Récole des données (Web et API)
+- Scrapping : Récolte des données (Web et API)
 - Alimentation d'un Dataset :  Ajout de données
 - Pre-Processing : Préparation des données pour l'analyse 
 - Modélisation : Classification  du problème et test de plusieurs modèles (Régression Linéaire, Arbre Décisionnel, Kneighbours et Foret Aléatoire)
@@ -35,7 +35,7 @@ L'objectif de cette analyse est de fournir une compréhension approfondie des ve
 -  Ventes des Jeux par Trimestre
 -  Ventes Totales par Éditeur de Jeux, Classées par Note attribuée par Metacritic
   
-![Base de données](https://github.com/meri1458/Analyse-des-ventes-de-jeux-video/blob/main/Capture%20d%E2%80%99%C3%A9cran%2002.png)
+![Base de données](https://github.com/meri1458/Analyse-des-ventes-de-jeux-video/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%2002.png)
 
  
 
